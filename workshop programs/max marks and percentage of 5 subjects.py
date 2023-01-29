@@ -1,0 +1,7 @@
+a=int(input("Enter Maths marks:"))
+b=int(input("Enter Science marks:"))
+c=int(input("Enter English marks:"))
+d=int(input("Enter Hindi marks:"))
+e=int(input("Enter Computer marks:"))
+mm=(a+b+c+d+e)
+print("Maximum marks obtained {} out of 500 \nPercentage={}".format(mm,(mm/500)*100))
