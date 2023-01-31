@@ -1,0 +1,556 @@
+
+List of Programs to be covered in Python Workshop
+1.	Write a program for the addition of Two Numbers.
+2.	Write a program to Read Two Numbers and Print Their Quotient and Remainder.
+3.	Write a program to Find the Average of Three Numbers.
+4.	Write a program to Calculate Sum of 5 Subjects and Find Percentage (Max Mark in each subject is 100).
+5.	Write a program to find gross salary.
+6.	Write a program to Calculate Area of Circle.
+7.	Write a program to Calculate Area of Rectangle.
+8.	Write a program to Calculate Area of Square.
+9.	Write a program to Calculate Area and Circumference of Circle.
+10.	Write a program to Calculate Area of Scalene Triangle.
+11.	Write a program to Calculate Area of Right-angle Triangle.
+12.	Write a program to find the area of trapezium.
+13.	Write a program to find the area of rhombus. 
+14.	Write a program to find the area of parallelogram.
+15.	Write a program to find the volume and surface area of cube.
+16.	Write a program to find the volume and surface area of cuboids.
+17.	Write a program to find the volume and surface area of cylinder.
+18.	Write a program to find the surface area and volume of a cone.
+19.	Write a program to find the volume and surface area of sphere.
+20.	Write a program to find the perimeter of a circle, rectangle and triangle.
+21.	Write a program to Compute Simple Interest.
+22.	Write a program to Convert Fahrenheit temperature in to Celsius.
+23.	Write a program to Find the Gravitational Force Acting Between Two Objects
+24.	Write a program to swap the values of two variables.
+25.	Write a program to swap the values of two variables without using third variable.
+26.	Write a program to copy one variable into another using assignment operator. 
+27.	Write a program to perform modulo division on a = 8, b = 3.
+28.	Write a program to perform modulo division on a = - 8, b = 3.
+29.	Write a program to perform modulo division on a = 8, b = - 3.
+30.	Write a program to perform modulo division on a = - 8, b = - 3.
+31.	Write a program to apply greater than operator on a=8, b=3.
+32.	Write a program to apply less than operator on a=8, b=3.
+33.	Write a program to apply greater than or equal to operator on a=8, b=3.
+34.	Write a program to apply less than or equal to operator on a=8, b=3.
+35.	Write a program to apply equal to operator on a=8, b=3.
+36.	Write a program to apply not equal to operator on a=8, b=3.
+37.	Write a program to apply Logical AND operator on two operands.
+38.	Write a program to apply Logical OR operator on two operands.
+39.	Write a program to apply Logical NOT operator on an operand.
+40.	Write a program to perform Bitwise AND operation on a = 15 and b = 17.
+41.	Write a program to perform Bitwise OR operation on a = 15 and b = 17.
+42.	Write a program to perform Bitwise XOR operation on a = 15 and b = 17.
+43.	Write a program to perform Bitwise negation operation on a = 15.
+44.	Write a program to Swap the Contents of two Numbers using Bitwise XOR Operation 
+45.	Write a program to Multiply given Number by 4 using Bitwise Operators
+
+Conditional statement
+46.	Write a program to find greatest between two numbers.
+47.	Write a program to Accept two Integers and Check if they are Equal.
+48.	Write a program to Check if a given Integer is Positive or Negative.
+49.	Write a program to Check if a given Integer is Odd or Even. 
+50.	Write a program to Check if a given Integer is Divisible by 5 or not.
+51.	Write a program to Check if a given Integer is Divisible by 7 or not.
+52.	Write a program to Accept two Integers and Check if they are Equal.
+53.	Write a program to find the greatest of three numbers using else if ladder.
+54.	Write a program to find the greatest of three numbers using Nested if.
+55.	Write a program to convert an Upper case character into lower case and vice-versa.
+56.	Write a program to check weather an entered year is leap year or not.
+57.	Write a Program to check whether an alphabet entered by the user is a vowel or a constant.
+58.	Write a program to Read a Coordinate Point and Determine its Quadrant.
+59.	Write a program to Add two Complex Numbers.
+60.	Write a Program to find roots of a quadratic expression.
+61.	Write a program to print day according to the day number entered by the user.
+62.	Write a program   
+63.	Write a program to Simulate Arithmetic Calculator.
+64.	Write a menu driven program for calculating area of different geometrical   figures such as circle, square, rectangle, and triangle.
+
+
+LOOPS:
+65.	Write a program to display numbers 1 to 10.
+66.	Write a program to display all even numbers from 1 to 20
+67.	Write a program to display all odd numbers from 1 to 20
+68.	Write a program to print all the Numbers Divisible by 7 from 1 to 100.
+69.	Write a program to print table of 2.
+70.	Write a program to print table of 5. 
+71.	Write a program to print table of any number.
+72.	Write a program to print table of 5 in following format.
+5 X 1 = 5
+5 X 2 = 10
+5 X 3 = 15
+
+73.	Write a program to Find the Sum of first 50 Natural Numbers using for Loop.
+74.	Write a program to calculate factorial of a given number using for loop.
+75.	Write a program to calculate factorial of a given number using while loop.
+76.	Write a program to count the sum of digits in the entered number.
+77.	Write a program to find the reverse of a given number. 	
+78.	Write a program to Check whether a given Number is Perfect Number.
+79.	Write a program program to check if the given number is a Disarium Number (11+ 72 + 53 = 1+ 49 + 125 = 175).
+80.	Write a program	m to determine whether the given number is a Harshad Number (If a number is divisible by the sum of its digits, then it will be known as a Harshad Number).
+81.	Write a program to Print Armstrong Number from 1 to 1000.
+82.	Write a program to Compute the Value of Xn. 
+83.	Write a program to Calculate the value of nCr.
+84.	Write a program to generate the Fibonacci Series.
+85.	Write a program to Print First 10 Natural Numbers.
+86.	Write a program to check whether a given Number is Palindrome or Not.
+87.	Write a program to Check whether a given Number is an Armstrong Number.
+88.	Write a program to Check Whether given Number is Perfect or Not.
+89.	Write a program to check weather a given number is prime number or not.
+90.	Write a program to print all prime numbers from 1-500.
+91.	Write a program to find the Sum of all prime numbers from 1-1000.
+92.	Write a program to display the following pattern:
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+93.	Write a program to display the following pattern:
+*
+* *
+* * *
+* * * *
+* * * * *
+94.	Write a program to display the following pattern:
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+95.	Write a program to display the following pattern:
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+96.	Write a program to display the following pattern:
+A
+B B
+C C C
+D D D D
+E E E E E
+
+ 
+97.	Write a program to display the following pattern:
+* * * * *
+* * * *
+* * *
+* *
+*
+
+98.	Write a program to display the following pattern:
+1 2 3 4 5
+1 2 3 4 
+1 2 3
+1 2
+1
+
+99.	Write a program to display the following pattern:
+*
+* * *
+* * * * *
+* * * * * * *
+* * * * * * * * *
+
+100.	Write a program to display the following pattern:
+1
+2 3 2
+3 4 5 4 3
+4 5 6 7 6 5 4
+5 6 7 8 9 8 7 6 5
+
+101.	Write a program to display the following pattern:
+* * * * * * * * *
+* * * * * * *
+* * * * *
+* * *
+*
+
+102.	Write a program to display the following pattern (Pascal Triangle):
+1
+1   1
+1   2   1
+1   3   3    1
+1  4    6   4   1
+1  5  10  10  5   1
+
+103.	Write a program to display the following pattern:
+1
+2 3
+4 5 6
+7 8 9 10
+
+104.	Write a program to display the following pattern:
+A
+B A B
+A B A B A
+B A B A B A B
+
+105.	Write a program to display the following pattern:
+1
+0 1 0
+1 0 1 0 1
+0 1 0 1 0 1 0
+
+106.	Write a program to display the following pattern:
+A B C D E F G F E D C B A
+A B C D E F     F E D C B A
+A B C D E           E D C B A
+A B C D                  D C B A
+A B C                         C B A
+A B                                B A
+A                                       A
+
+
+
+
+
+107.	Write a program to display the following pattern:
+**********
+****  ****
+***    ***
+**      **
+*        *
+
+108.	Write a program to display the following pattern:
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * *
+* * * *
+* * *
+* *
+*
+
+	
+109.	Write a program to display the following pattern:	
+0
+01
+010
+0101
+01010
+
+
+110.	Write a program to display the following pattern:
+0                0
+01            10
+010        010
+0101    1010
+0101001010
+
+111.	Write a program to display the following pattern:
+1                1
+12            21
+123        321
+1234    4321
+1234554321
+
+112.	Write a program to display the following pattern:
+A 
+B C 
+D E F 
+G H I J 
+K L M N O
+
+113.	Write a program to display the following pattern:
+A
+BAB
+CBABC
+DCBABCD
+EDCBABCDE
+
+114.	Write a program to display the following pattern:
+1A2B3C4D5E
+1A2B3C4D
+1A2B3C
+1A2B
+1A
+
+115.	Write a program to display the following pattern:
+0
+1 0 1
+2 1 0 1 2
+3 2 1 0 1 2 3
+4 3 2 1 0 1 2 3 4
+
+
+116.	Write a program to print the following sequence of integers. 
+0, 5, 10, 15, 20, 25
+117.	Write a program to print the following sequence of integers. 
+0, 2, 4, 6, 8, 10
+118.	Write a program to Find the Sum of A.P Series.
+119.	Write a program to Find the Sum of G.P Series.
+120.	Write a program to Find the Sum of H.P Series.
+121.	Write a program to print the following sequence of integers. 
+1, 2, 4, 8, 16, 32
+122.	Write a program to print the following sequence of integers. 
+ 	-8, -6, -4, -2, 0, 2, 4, 6, 8
+123.	Write a program to find the Sum of following Series:
+1 + 2 + 3 + 4 + 5 + ... + n
+124.	Write a program to find the Sum of following Series:
+(1*1) + (2*2) + (3*3) + (4*4) + (5*5) + ... + (n*n)
+125.	 Write a program to find the Sum of following Series:
+(1) + (1+2) + (1+2+3) + (1+2+3+4) + ... + (1+2+3+4+...+n)
+126.	Write a program to find the Sum of following Series:
+1! + 2! + 3! + 4! + 5! + ... + n!
+127.	Write a program to find the Sum of following Series:
+(1^1) + (2^2) + (3^3) + (4^4) + (5^5) + ... + (n^n)
+128.	Write a program to find the Sum of following Series:
+(1!/1) + (2!/2) + (3!/3) + (4!/4) + (5!/5) + ... + (n!/n)
+129.	Write a program to find the Sum of following Series:
+[(1^1)/1] + [(2^2)/2] + [(3^3)/3] + [(4^4)/4] + [(5^5)/5] + ... + [(n^n)/n]
+130.	Write a program to find the Sum of following Series:
+[(1^1)/1!] + [(2^2)/2!] + [(3^3)/3!] + [(4^4)/4!] + [(5^5)/5!] + ... + [(n^n)/n!]
+131.	Write a program to find the Sum of following Series:
+1/2 - 2/3 + 3/4 - 4/5 + 5/6 - ...... upto n terms
+
+132.	Write a program to print the following Series:
+1, 2, 3, 6, 9, 18, 27, 54, ... upto n terms
+133.	Write a program to print the following Series:
+2, 15, 41, 80, 132, 197, 275, 366, 470, 587
+134.	Write a program to print the following Series:
+1, 3, 4, 8, 15, 27, 50, 92, 169, 311
+135.	Write a program to Convert the given Binary Number into Decimal.
+136.	Write a program to Convert Binary to Octal.
+137.	Write a program to Convert Binary to Hexadecimal.
+138.	Write a program to Convert Decimal to Octal. 
+139.	Write a program to Convert Decimal to Hexadecimal.
+140.	Write a program to Convert Roman Number to Decimal Number.
+141.	Write a program to Convert Octal to Binary.
+142.	Write a program to Convert Hexadecimal to Binary.
+143.	Write a program to Convert Octal to Decimal.
+144.	Write a program to Find the Sum of two Binary Numbers.
+145.	Write a program to Find Multiplication of two Binary Numbers.
+146.	Write a program to find out L.C.M. of two numbers.
+147.	Write a program to find out H.C.F. of two numbers.
+148.	Python Program to Accept Three Digits and Print all Possible Combinations from the Digits
+149.	Python Program to Print Odd Numbers Within a Given Range
+150.	Python Program to Find the Sum of Digits in a Number
+151.	Python Program to Find the Smallest Divisor of an Integer
+152.	Python Program to Count the Number of Digits in a Number
+153.	Python Program to Check if a Number is a Palindrome
+154.	Python Program to Print all Integers that Aren't Divisible by Either 2 or 3 and Lie between 1 and 50.
+155.	Python Program to Read a Number n And Print the Series "1+2+…..+n= sum"
+Functions
+156.	 Write a Python function to find the Max of three numbers. 
+157.	 Write a Python 	
+158.	 Write a Python function to multiply all the numbers in a list.  
+Sample List : (8, 2, 3, -1, 7)
+Expected Output : -336
+159.	 Write a Python program to reverse a string.  
+Sample String : "1234abcd"
+Expected Output : "dcba4321"
+160.	 Write a Python function to calculate the factorial of a number (a non-negative integer). The function accepts the number as an argument. 
+161.	 Write a Python function to check whether a number falls in a given range.  
+162.	 Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters.  
+Sample String : 'The quick Brow Fox'
+Expected Output :
+No. of Upper case characters : 3
+No. of Lower case Characters : 12
+163.	 Write a Python function that takes a list and returns a new list with unique elements of the first list.  
+Sample List : [1,2,3,3,3,3,4,5]
+Unique List : [1, 2, 3, 4, 5]
+164.	 Write a Python function that takes a number as a parameter and check the number is prime or not.  
+
+165.	 Write a Python program to print the even numbers from a given list.  
+Sample List : [1, 2, 3, 4, 5, 6, 7, 8, 9]
+Expected Result : [2, 4, 6, 8]
+166.	 Write a Python function to check whether a number is perfect or not.  
+In number theory, a perfect number is a positive integer that is equal to the sum of its proper positive divisors, that is, the sum of its positive divisors excluding the number itself. 
+Example : The first perfect number is 6, because 1, 2, and 3 are its proper positive divisors, and 1 + 2 + 3 = 6. The next perfect number is 28 = 1 + 2 + 4 + 7 + 14. This is followed by the perfect numbers 496 and 8128.
+167.	 Write a Python function that checks whether a passed string is palindrome or not.  
+Note: A palindrome is a word, phrase, or sequence that reads the same backward as forward, e.g., madam or nurses run.
+
+168.	 Write a Python function that prints out the first n rows of Pascal's triangle.  
+Note: Pascal's triangle is an arithmetic and geometric figure first imagined by Blaise Pascal.
+Sample Pascal's triangle :
+ 
+169.	 Each number is the two numbers above it added together.  
+170.	 Write a Python function to check whether a string is a pangram or not.  
+Note : Pangrams are words or sentences containing every letter of the alphabet at least once.
+For example : "The quick brown fox jumps over the lazy dog"
+171.	 Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically. 
+ Sample Items : green-red-yellow-black-white
+Expected Result : black-green-red-white-yellow
+172.	 Write a Python function to create and print a list where the values are square of numbers between 1 and 30 (both included).  
+173.	 Write a Python program to make a chain of function decorators (bold, italic, underline etc.) in Python.  
+174.	 Write a Python program to execute a string containing Python code.  
+175.	 Write a Python program to access a function inside a function.  
+176.	 Write a Python program to detect the number of local variables declared in a function.  
+Sample Output:
+3
+Recursion:
+177.	Write a program using recursion to compute factorial of a given number.
+178.	Write a program to print Fibonacci Series using recursion.
+179.	Write a program to find the Nth Fibonacci Number using recursion.
+180.	Write a program to calculate sum of numbers 1 to N using recursion.
+181.	Write a program to Find Sum of Digits of the Number using Recursive Function.
+182.	Write a program to print Tower of Hanoi using recursion.
+183.	Python Program to Determine Whether a Given Number is Even or Odd Recursively
+184.	Python Program to Determine How Many Times a Given Letter Occurs in a String Recursively
+185.	Python Program to Find the Sum of Elements in a List Recursively
+186.	Python Program to Find the Binary Equivalent of a Number Recursively
+187.	Python Program to Find the LCM of Two Numbers Using Recursion
+188.	Python Program to Find the GCD of Two Numbers Using Recursion
+189.	Python Program to Find if a Number is Prime or Not Prime Using Recursion
+190.	Python Program to Find the Product of two Numbers Using Recursion
+191.	Python Program to Find the Power of a Number Using Recursion
+192.	Python Program to Check Whether a String is a Palindrome or not Using Recursion
+193.	Python Program to Reverse a String Using Recursion
+194.	Python Program to Flatten a Nested List using Recursion
+195.	Python Program to Find the Total Sum of a Nested List Using Recursion
+196.	Python Program to Find the Length of a List Using Recursion
+
+Classes and Objects:
+197.	Python Program to Find the Area of a Rectangle Using Classes
+198.	Python Program to Create a Class and Compute the Area and the Perimeter of the Circle
+199.	Python Program to Create a Class which Performs Basic Calculator Operations
+200.	Python Program to Create a Class in which One Method Accepts a String from the User and Another Prints it
+201.	Python Program to Create a Class and Get All Possible Subsets from a Set of Distinct Integers
+202.	Python Program to Append, Delete and Display Elements of a List Using Classes
+
+String: 
+203.	 Python program to check if a string is palindrome or not
+204.	 Python program to check whether the string is Symmetrical or Palindrome
+205.	 Reverse words in a given String in Python
+206.	 Ways to remove i’th character from string in Python
+207.	 Python | Check if a Substring is Present in a Given String
+208.	 Python – Words Frequency in String Shorthands
+209.	 Find length of a string in python (4 ways)
+210.	 Python program to print even length words in a string
+211.	 Python program to accept the strings which contains all vowels
+212.	 Python | Count the Number of matching characters in a pair of string
+213.	 Remove all duplicates from a given string in Python
+214.	 Python – Least Frequent Character in String
+215.	 Python | Maximum frequency character in String
+216.	 Python | Program to check if a string contains any special character
+217.	 Generating random strings until a given string is generated
+218.	 Find words which are greater than given length k
+219.	 Python program for removing i-th character from a string
+220.	 Python program to split and join a string
+221.	 Python | Check if a given string is binary string or not
+222.	 Python program to find uncommon words from two Strings
+223.	 Python – Replace duplicate Occurrence in String
+224.	 Python – Replace multiple words with K
+225.	 Python | Permutation of a given string using inbuilt function
+226.	 Python | Check for URL in a String
+227.	 Execute a String of Code in Python
+228.	 String slicing in Python to rotate a string
+229.	 String slicing in Python to check if a string can become empty by recursive deletion
+230.	 Python Counter| Find all duplicate characters in string
+231.	 Python – Replace all occurrences of a substring in a string
+232.	Python Program to Replace all Occurrences of ‘a’ with $ in a String
+233.	Python Program to Remove the nth Index Character from a Non-Empty String
+234.	Python Program to Detect if Two Strings are Anagrams
+235.	Python Program to Form a New String where the First Character and the Last Character have been Exchanged
+236.	Python Program to Count the Number of Vowels in a String
+237.	Python Program to Take in a String and Replace Every Blank Space with Hyphen
+238.	Python Program to Calculate the Length of a String Without Using a Library Function
+239.	Python Program to Remove the Characters of Odd Index Values in a String
+240.	Python Program to Calculate the Number of Words and the Number of Characters Present in a String
+241.	Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions
+242.	Python Program to Count Number of Lowercase Characters in a String
+243.	Python Program to Check if a String is a Palindrome or Not
+244.	Python Program to Calculate the Number of Upper Case Letters and Lower Case Letters in a String
+245.	Python Program to Check if a String is a Pangram or Not
+(A pangram is a sentence that uses all 26 letters of the English alphabet at least once. like ” The quick brown fox jumps over the lazy dog”)
+246.	Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically
+247.	Python Program to Calculate the Number of Digits and Letters in a String
+248.	Python Program to Form a New String Made of the First 2 and Last 2 characters From a Given String
+249.	Python Program to Count the Occurrences of Each Word in a Given String Sentence
+250.	Python Program to Check if a Substring is Present in a Given String
+251.	Python Program to Print All Permutations of a String in Lexicographic Order without Recursion
+252.	Python Program to Print All Permutations of a String in Lexicographic Order using Recursion
+
+LIST
+253.	 Program to interchange first and last elements in a list
+254.	 Program to swap two elements in a list
+255.	 Program to find length of list
+256.	 Program to check if element exists in list
+257.	 Different ways to clear a list in Python
+258.	 Program for Reversing a List
+259.	 Program to find sum of elements in list
+260.	 Program to Multiply all numbers in the list
+261.	 Program to find smallest number in a list
+262.	 Program to find largest number in a list
+263.	 Program to find second largest number in a list
+264.	 Program to find N largest elements from a list
+265.	 Program to print even numbers in a list
+266.	 Program to print odd numbers in a List
+267.	 Program to print all even numbers in a range
+268.	 Program to print all odd numbers in a range
+269.	 Program to print positive numbers in a list
+270.	 Program to print negative numbers in a list
+271.	 Program to print all positive numbers in a range
+272.	 Program to print all negative numbers in a range
+273.	 Program to Remove multiple elements from a list in Python
+274.	 Program to Remove empty List from List
+275.	 Program to Cloning or Copying a list
+276.	 Program to Count occurrences of an element in a list
+277.	 Program to print duplicates from a list of integers
+278.	 Program to find Cumulative sum of a list
+279.	 Program to Break a list into chunks of size N in Python
+280.	 Program to add two Matrices
+281.	 Program to multiply two matrices
+282.	 Program for Matrix Product
+283.	 Program for Addition and of two Matrices in Python
+284.	 Transpose a matrix in Python
+285.	 Program to get Kth Column of Matrix
+Tuple:
+286.	 Python program to Find the size of a Tuple
+287.	 Python – Maximum and Minimum Kth elements in Tuple
+288.	 Create a list of tuples from given list having number and its cube in each tuple
+289.	 Python – Adding Tuple to List and vice – versa
+290.	 Python – Closest Pair to Kth index element in Tuple
+291.	 Python – Join Tuples if similar initial element
+292.	 Python – Extract digits from Tuple list
+293.	 Python – All pair combinations of 2 tuples
+294.	 Python – Remove Tuples of Length K
+295.	 Sort a list of tuples by second Item
+296.	 Python program to Order Tuples using external List.
+297.	 Python – Flatten tuple of List to tuple
+298.	 Python – Convert Nested Tuple to Custom Key Dictionary
+
+Set:
+299.	Python Program to Count the Number of Vowels Present in a String using Sets
+300.	Python Program to Check Common Letters in Two Input Strings
+301.	Python Program that Displays which Letters are in the First String but not in the Second
+302.	Python Program that Displays which Letters are Present in Both the Strings
+303.	Python Program that Displays which Letters are in the Two Strings but not in Both
+
+Dictionary:
+304.	Python Program to Add a Key-Value Pair to the Dictionary
+305.	Python Program to Concatenate Two Dictionaries Into One
+306.	Python Program to Check if a Given Key Exists in a Dictionary or Not
+307.	Python Program to Generate a Dictionary that Contains Numbers (between 1 and n) in the Form (x,x*x).
+308.	Python Program to Sum All the Items in a Dictionary
+309.	Python Program to Multiply All the Items in a Dictionary
+310.	Python Program to Remove the Given Key from a Dictionary
+311.	Python Program to Form a Dictionary from an Object of a Class
+312.	Python Program to Map Two Lists into a Dictionary
+313.	Python Program to Count the Frequency of Words Appearing in a String Using a Dictionary
+314.	Python Program to Create a Dictionary with Key as First Character and Value as Words Starting with that Character
+
+Python File Handling Programs:
+315.	Python program to read file word by word
+316.	Python program to read character by character from a file
+317.	Python – Get number of characters, words, spaces and lines in a file
+318.	Program to Find ‘n’ Character Words in a Text File
+319.	Python Program to obtain the line number in which given word is present
+320.	Count number of lines in a text file in Python
+321.	Python Program to remove lines starting with any prefix
+322.	Python Program to Eliminate repeated lines from a file
+323.	Python Program to read List of Dictionaries from File
+324.	Python – Append content of one text file to another
+325.	Python program to copy odd lines of one file to other
+326.	Python Program to merge two files into a third file
+327.	Python program to Reverse a single line of a text file
+328.	Python program to reverse the content of a file and store it in another file
+329.	Python Program to Reverse the Content of a File using Stack
+
+
+
