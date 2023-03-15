@@ -4,7 +4,7 @@ if (b=="a"or b=="i" or b=="e" or b=="o" or b=="u"):
     print(a, "is a vowel")
 
 elif (b=="b"or b=="c"or b=="d"or b=="f"or b=="g"or b=="h"or b=="j"or b=="k"or b=="l"or b=="m"or b=="n"or
-      b=="p"or b=="q"or b=="r"or b=="s"or b=="t"or b=="v"or b=="w"or b=="x"or b=="y"or b=="z" ):
+    b=="p"or b=="q"or b=="r"or b=="s"or b=="t"or b=="v"or b=="w"or b=="x"or b=="y"or b=="z" ):
     print(a,"is a consonant")
     
 

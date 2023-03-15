@@ -1,6 +1,7 @@
-filename = input("Enter filename: ")
+filename =str( input("Enter filename: "))
 
-with open(filename, 'r') as file:
-    for line in file:
+with open(filename,'r') as file:
+    for line in file.readlines():
         print(line)
-#not completed
+    
+file.close()
