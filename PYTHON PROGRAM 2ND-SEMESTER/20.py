@@ -34,6 +34,7 @@ class Office(Distance):
 
 
 
+
 school = School(5, 200, "ABC School", "123 Main Street")
 
 
